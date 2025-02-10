@@ -1,0 +1,16 @@
+
+@media(max-width:900px){
+    .contacts{
+        position: absolute !important;
+        left: 50% !important;
+        transform: translate(-50%) !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+}
+}
+@media(max-width:500px){
+    .contacts{
+        text-align: center !important;
+        width: 15rem !important;
+    }
+}

@@ -1,0 +1,18 @@
+
+.mybar{
+    width: 100vw;
+    position: relative;
+    top: 0;
+}
+.inside-bar{
+    position: relative;
+    left: 0;
+    height: 2rem;
+}
+.space{
+    display: flex;
+    flex-basis: 80%;
+}
+.me-auto{
+    width: 70%;
+}

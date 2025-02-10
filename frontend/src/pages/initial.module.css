@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.outer_initial{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+.Initial_page{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 30%;
+    height: 25%;
+    border: 2px solid white;
+    border-radius: 2rem;
+    transform: translate(-50%,-50%);
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+.break{
+    display: flex;
+    flex-basis: 100%;
+}
+.button{
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+}
+.title {
+    font-size: 3rem;
+    /* Large and bold */
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    background: linear-gradient(90deg, #0074E4, #3399FF, #0052CC);
+    /* Brighter blue gradient */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 3px;
+    text-shadow: 3px 3px 10px rgba(51, 153, 255, 0.6);
+    /* Soft glow effect */
+}

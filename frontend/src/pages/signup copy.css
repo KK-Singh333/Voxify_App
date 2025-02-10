@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.login{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 50%;
+    width: 25%;
+    transform: translate(-50%,-50%);
+    
+}
+.login-head{
+    transform: translate(9.5rem);
+    padding-bottom: 3rem;
+    font-weight: 600;
+    text-decoration-line: underline;
+}
