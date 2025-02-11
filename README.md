@@ -2,3 +2,4 @@ Hello, this is Voxify, a blogging application. This has two special features apa
 The link to app:- https://voxify-ivory.vercel.app/
 Please do check it out.
 NOTE: This github repo consists the local host version of the website(not optimised for mobile) , repo for the deployed version is : https://github.com/KK-Singh333/Voxify.git
+This version is also optimised for mobile devices
